@@ -75,7 +75,7 @@ This dashboard enables stakeholders to:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots of all three dashboard pages here)*
+Screenshots of all 3 pages of Dashboard are provided 
 
 ---
 
